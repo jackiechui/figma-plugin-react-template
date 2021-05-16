@@ -1,6 +1,6 @@
 {
   "name": "React Template",
-  "id": "replaceThisWhenPublishing",
+  "id": "Replace this with actual ID when publishing",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/ui.html"
