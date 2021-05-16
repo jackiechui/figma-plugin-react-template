@@ -17,9 +17,9 @@ your plugin.
 Installation:
 
 ```
-npm install
+$ npm install
 or
-yarn
+$ yarn
 ```
 
 Develop with hot-reloading:
