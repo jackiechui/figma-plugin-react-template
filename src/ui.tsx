@@ -22,7 +22,7 @@ function App() {
       <Input
         className="countInput"
         type="number"
-        defaultValue={count}
+        defaultValue={5}
         placeholder="Count"
         onChange={(value) => {
           setCount(parseInt(value));
