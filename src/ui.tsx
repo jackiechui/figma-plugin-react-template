@@ -25,7 +25,7 @@ function App() {
         defaultValue={count}
         placeholder="Count"
         onChange={(value) => {
-          setCount(Number(value));
+          setCount(parseInt(value));
         }}
       />
 
